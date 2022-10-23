@@ -1,8 +1,10 @@
 # SMS-Sender
-SMS Sender project for Robotics
+SMS Sender project for Robotics.
 
-Authors:
+## Authors:
   - Maciej Olszewski
   - Jan Olszówka
   - Dawid Stępniewski
   - Wojciech Jeleniewicz
+
+Inspect it on [**GitHub Pages**](https://machofvmaciek.github.io/sms_sender.html)!
